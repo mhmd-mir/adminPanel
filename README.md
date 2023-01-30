@@ -5,7 +5,7 @@
 <small>Wednesday, July 6, 2022</small>
 
 <h2>Techs </h2>
-<p>Html ,Css</p>
+<p>Html ,Css ,Bootstrap ,Chart.js</p>
 
 <h2>Online Demo</h2>
 <p>
