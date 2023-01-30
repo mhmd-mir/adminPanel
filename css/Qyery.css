@@ -1,0 +1,26 @@
+@media screen and (max-width : 768px) {
+    .container__progressbars{
+        justify-content: center !important;
+    }
+    #searchInput{
+        display: none;
+    }
+    .search-icon{
+        left: 9px !important;
+    }
+}
+/* unregular break points */
+@media screen and (max-width : 450px) {
+    .d-none-for-sm{
+        display: none !important;
+    }
+}
+@media screen and (max-width : 576px) {
+    .customer-intro{
+        justify-content: center;
+    }
+    .customer-icons{
+        justify-content: center;
+        margin-top: 1rem;
+    }
+}
