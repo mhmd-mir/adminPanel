@@ -9,7 +9,7 @@
 
 <h2>Online Demo</h2>
 <p>
-  <a href="https://mhmd-mir.github.io/eventex">https://mhmd-mir.github.io/adminPanel</a>
+  <a href="https://mhmd-mir.github.io/adminPanel/">https://mhmd-mir.github.io/adminPanel</a>
 </p>
 
 
